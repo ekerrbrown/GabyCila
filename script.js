@@ -20,37 +20,37 @@ changeToSubImg8.addEventListener("mouseover", subImg8);
 origImg.addEventListener("mouseout", ogImg);
 
 function ogImg(){
-bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/Gaby Website/images/Main Image.png" alt="" />`
+bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/images/Main Image.png" alt="" />`
 }
 
 function subImg1(){
 
-bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/Gaby Website/images/Sub-Image 1.png" alt="" />`;
+bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/images/Sub-Image 1.png" alt="" />`;
 }
 
 function subImg2(){
 
-bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/Gaby Website/images/Sub-Image 2.png" alt="" />`;
+bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/images/Sub-Image 2.png" alt="" />`;
 }
 function subImg3(){
 
-bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/Gaby Website/images/Sub-Image 3.png" alt="" />`;
+bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/images/Sub-Image 3.png" alt="" />`;
 }
 function subImg4(){
 
-bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/Gaby Website/images/Sub-Image 4.png" alt="" />`;
+bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/images/Sub-Image 4.png" alt="" />`;
 }
 function subImg5(){
 
-bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/Gaby Website/images/Sub-Image 5.png" alt="" />`;
+bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/images/Sub-Image 5.png" alt="" />`;
 }
 function subImg6(){
 
-bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/Gaby Website/images/Sub-Image 6.png" alt="" />`;
+bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/images/Sub-Image 6.png" alt="" />`;
 }
 function subImg7(){
 
-bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/Gaby Website/images/Sub-Image 7.png" alt="" />`;
+bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/images/Sub-Image 7.png" alt="" />`;
 }
 
 function subImg8(){

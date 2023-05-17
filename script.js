@@ -55,5 +55,5 @@ bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/images/Sub-Image 7
 
 function subImg8(){
 
-    bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/Gaby Website/images/Sub-Image 8.png" alt="">`;
+    bigImg.innerHTML = `<img id = "myImg" class = "mainImg" src="/images/Sub-Image 8.png" alt="">`;
     }
